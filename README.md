@@ -5,7 +5,8 @@
 Paper: Graceful Degradation in Autonomous Agents: SAGE Memory-Augmented Drone Navigation Without Language Model Dependency (Likov, 2026b)
 
 Companion paper (memory architecture): https://github.com/Ivelin2022/sage
-Preprint DOI: https://doi.org/10.5281/zenodo.19192937
+Companion paper DOI: https://doi.org/10.5281/zenodo.19192937
+This paper DOI: https://doi.org/10.5281/zenodo.19193273
 
 ## What this repository contains
 
