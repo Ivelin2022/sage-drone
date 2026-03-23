@@ -4,7 +4,7 @@
 
 Paper: Graceful Degradation in Autonomous Agents: SAGE Memory-Augmented Drone Navigation Without Language Model Dependency (Likov, 2026b)
 
-Companion paper (memory architecture): https://github.com/ivelinlikov/sage
+Companion paper (memory architecture): https://github.com/Ivelin2022/sage
 
 ## What this repository contains
 
@@ -18,7 +18,6 @@ sage_memory_v2.py    v2 — SAGEDivided + MultiCube + Consolidation
 ollama_adapter.py    nomic-embed-text encoder + Mistral 7B integration
 run_all.py           Runs all 6 test modes (hybrid, SAGE-only, sequence)
 sequence_test.py     4-mode sequence encoding evaluation
-sage_sequence_cube.py SAGESequenceCube — explicit transition memory (resolves Gap 4)
 requirements.txt     Dependencies
 ```
 
@@ -69,7 +68,7 @@ All experiments use text-command simulation. No physical drone was used. Observa
   title  = {Graceful Degradation in Autonomous Agents: SAGE Memory-Augmented Drone Navigation},
   author = {Likov, Ivelin},
   year   = {2026},
-  url    = {https://github.com/ivelinlikov/sage-drone}
+  url    = {https://github.com/Ivelin2022/sage-drone}
 }
 ```
 
